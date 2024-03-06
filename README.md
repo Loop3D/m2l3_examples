@@ -1,6 +1,6 @@
 # m2l3_examples
 
-This library contains datasets (hosted in GDrive) and workflows to test/develop map2loop.  
+This library contains datasets (hosted in GDrive) and workflows to test/develop map2loop. Each folder contains a specific dataset. 
 
 The map2loop code in this repo's notebooks should run on a Colab environment (feel free to get in touch if not). 
 
